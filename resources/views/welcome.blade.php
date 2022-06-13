@@ -4,7 +4,7 @@
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <title>PENGKAT | Pengaduan Masyarakat</title>
+  <title>PENGKAT |Khofifah Amanda</title>
 
   <link href="{{ asset('css/app.css') }}" rel="stylesheet">
   <link rel="icon" href="{{ asset('img/favicon.svg')}}">
@@ -22,7 +22,7 @@
       <img src="{{ asset('img/logo.svg')}}" alt=""
         class="transform transition hover:scale-125 duration-300 ease-in-out" />
       <span class="font-bold tracking-wider text-xl">
-        &nbsp PENGKAT</span>
+        &nbsp E-PENGKAT</span>
     </div>
     <div class="block lg:hidden">
       <button
@@ -157,8 +157,8 @@
   </div>
   <!-- Footer -->
   <footer class="text-center font-medium bg-blue-200 py-5">
-    © 2021 PENGKAT | By
-    <a href="https://madfariz.web.id/" class="text-blue-500" target="_blank">MadFariz</a>
+    © 2022 PROYEK 1 | By
+    <a href="https://madfariz.web.id/" class="text-blue-500" target="_blank">KHOFIFAH AMANDA</a>
   </footer>
   @include('sweetalert::alert')
 </body>
